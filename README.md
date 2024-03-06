@@ -32,7 +32,7 @@ MonthlyCharges
 
 Weighted F1 Score for AdaBoostClassifier: 0.7921527813398151 
 
-**Preprocesing**\
+**Preprocesing**
 1. Feature OnlineSecurity, OnlineBackup, InternetService, DeviceProtection, Contract mengunakan binary encoding- 
 2. Feature Paperlessbilling mengunakan onehot encoding
    
